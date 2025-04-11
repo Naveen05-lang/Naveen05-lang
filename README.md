@@ -19,18 +19,18 @@ experiences across platforms.</h3>
 
  <br/>
  
- -   ![](https://komarev.com/ghpvc/?username=DishaGupta27&color=blueviolet&style=plastic&label=VISITORS)
- -   <a href="https://github.com/DishaGupta27?tab=followers"><img src="https://img.shields.io/github/followers/DishaGupta27?label=Followers&style=social" alt="GitHub Badge"></a>
+ -   ![](https://komarev.com/ghpvc/?username=Naveen05-lang&color=blueviolet&style=plastic&label=VISITORS)
+ -   <a href="https://github.com/Naveen05-lang?tab=followers"><img src="https://img.shields.io/github/followers/Naveen05-lang?label=Followers&style=social" alt="GitHub Badge"></a>
   
 
 
 ## 💫 About Me:
 <img align="right" alt="coding" height="200px" width="350px" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f">
 
-🙋‍♂️ All about me is at **[My Website](https://dishagupta-portfolio.netlify.app/)**<br><br>🌱 I’m currently learning **React Native**<br><br> 📫 How to reach me **naveenthalari2000@gmail.com**<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/142w1fO95ZbdCjoYmAR7Jb1waKm3n411Y/view?usp=sharing)
+🌱 I’m currently learning **React Native**<br><br> 📫 How to reach me **naveenthalari2000@gmail.com**<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wL0kiHwX14XOt8pquPJQaDm6VAjFYHO5/view?usp=sharing)
 
 ## 🌐 Socials:
-<a href="www.linkedin.com/in/naveen-thalari-916094257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thalari Naveen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveen-thalari-916094257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thalari Naveen" height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@Thalari-Naveen-the-bold" height="30" width="40" /></a>
 
 ## 💻 Technologies and Tools I use:
@@ -41,4 +41,4 @@ experiences across platforms.</h3>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen05-lang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen05-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen05-lang&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/Naveen05-lang/github-readme-activity-graph)
-[![](https://visitcount.itsvg.in/api?id=DishaGupta27&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Naveen05-lang&icon=0&color=0)](https://visitcount.itsvg.in)
