@@ -42,6 +42,4 @@ experiences across platforms.</h3>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen05-lang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen05-lang&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/Naveen05-lang/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=Naveen05-lang&icon=0&color=0)](https://visitcount.itsvg.in)
-### 🐍 Watch my contribution graph get eaten by the snake 🐍
 
-![snake gif](https://github.com/Ankit1141192/Ankit1141192/blob/output/ocean.gif)
